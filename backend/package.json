@@ -1,0 +1,11 @@
+{
+  "name": "shopping_list_backend",
+  "version": "1.0.0",
+  "description": "Learning CRUD operations with Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "valvira-gh",
+  "license": "ISC"
+}
